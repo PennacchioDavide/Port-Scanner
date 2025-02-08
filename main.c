@@ -69,6 +69,7 @@ void loop_port_scanner(char *ip, int start_port, int end_port)
     while (k < j)
     {
         printf("[PORT %d]\n", open_ports[k]);
+        k++;
     }
 }
 
