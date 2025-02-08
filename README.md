@@ -1,5 +1,2 @@
 
-## Implementation of a **Port** **Scanner** for linux using:
-
-- 
-- 
+## Implementation of a **Port** **Scanner** for linux using sockets
